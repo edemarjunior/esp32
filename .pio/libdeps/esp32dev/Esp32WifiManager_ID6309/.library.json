@@ -1,0 +1,39 @@
+{
+    "name": "Esp32WifiManager", 
+    "version": "0.9.1", 
+    "keywords": [
+        "communication"
+    ], 
+    "description": "This Arduino library supports Wifi Management for Esp32.", 
+    "frameworks": [
+        "arduino"
+    ], 
+    "platforms": [
+        "espressif32"
+    ], 
+    "authors": [
+        {
+            "email": "mad.hephaestus@gmail.com", 
+            "url": null, 
+            "maintainer": true, 
+            "name": "Kevin Harrington"
+        }
+    ], 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/madhephaestus/Esp32WifiManager"
+    }, 
+    "homepage": null, 
+    "export": {
+        "include": null, 
+        "exclude": [
+            "extras", 
+            "docs", 
+            "tests", 
+            "test", 
+            "*.doxyfile", 
+            "*.pdf"
+        ]
+    }, 
+    "id": 6309
+}
